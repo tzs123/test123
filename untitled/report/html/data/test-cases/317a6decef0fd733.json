@@ -1,0 +1,139 @@
+{
+  "uid" : "317a6decef0fd733",
+  "name" : "测试用例描述：错误的密码登录失败",
+  "fullName" : "test_login.Test#test_22",
+  "historyId" : "663e8a2f9493fafa8ffaa773ba8d0568",
+  "time" : {
+    "start" : 1651990812208,
+    "stop" : 1651990813387,
+    "duration" : 1179
+  },
+  "description" : "测试描述：错误的密码登录失败",
+  "descriptionHtml" : "<p>测试描述：错误的密码登录失败</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_Test",
+    "time" : {
+      "start" : 1651990809327,
+      "stop" : 1651990809441,
+      "duration" : 114
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "测试描述：错误的密码登录失败",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "输入错误的密码",
+      "time" : {
+        "start" : 1651990812208,
+        "stop" : 1651990812208,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "180f400468e7c0e9",
+        "name" : "错误的密码",
+        "source" : "180f400468e7c0e9.attach",
+        "type" : "text/plain",
+        "size" : 3
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "6ab2c46f057266e",
+      "name" : "截图",
+      "source" : "6ab2c46f057266e.png",
+      "type" : "image/png",
+      "size" : 666760
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_Test::0",
+    "time" : {
+      "start" : 1651990817313,
+      "stop" : 1651990819384,
+      "duration" : 2071
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "登录"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "epic",
+    "value" : "xxx测试"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test"
+  }, {
+    "name" : "host",
+    "value" : "MS-SLSXLICKSUSF"
+  }, {
+    "name" : "thread",
+    "value" : "11376-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "317a6decef0fd733.json",
+  "parameterValues" : [ ]
+}

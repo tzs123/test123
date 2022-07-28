@@ -1,0 +1,212 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_Demo",
+    "children" : [ {
+      "name" : "测试标题：用例二",
+      "uid" : "181f019ac526dfbe",
+      "parentUid" : "c7d4b95134091575895a09debb3b8287",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651990768571,
+        "stop" : 1651990768571,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "测试用例描述：生肖配对",
+      "uid" : "9bb284ddc0186f41",
+      "parentUid" : "c7d4b95134091575895a09debb3b8287",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651990768575,
+        "stop" : 1651990768988,
+        "duration" : 413
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c7d4b95134091575895a09debb3b8287"
+  }, {
+    "name" : "test_app",
+    "children" : [ {
+      "name" : "测试用例描述：播放音乐：我爱他",
+      "uid" : "2048feadf76e3ddd",
+      "parentUid" : "62404d2794b52144b4c6412015909c0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651990777983,
+        "stop" : 1651990795480,
+        "duration" : 17497
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "62404d2794b52144b4c6412015909c0b"
+  }, {
+    "name" : "test_5",
+    "children" : [ {
+      "name" : "测试用例描述：正确的账号密码登录成功",
+      "uid" : "b62d6024e6bfb64d",
+      "parentUid" : "493bc60e486e8b7aec3ef95cec2c8037",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651990796096,
+        "stop" : 1651990800522,
+        "duration" : 4426
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "测试用例描述：点击积分商城",
+      "uid" : "4b6dc033024c9138",
+      "parentUid" : "493bc60e486e8b7aec3ef95cec2c8037",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651990800940,
+        "stop" : 1651990804717,
+        "duration" : 3777
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "测试用例描述：点击账号余额",
+      "uid" : "1b14d9922fbd6b5c",
+      "parentUid" : "493bc60e486e8b7aec3ef95cec2c8037",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651990805288,
+        "stop" : 1651990806508,
+        "duration" : 1220
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "493bc60e486e8b7aec3ef95cec2c8037"
+  }, {
+    "name" : "test_login",
+    "children" : [ {
+      "name" : "测试用例描述：错误的账号登录失败",
+      "uid" : "b6e41fccbc59a671",
+      "parentUid" : "03f1661ca992eb99488d3d9f2a012d80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651990809441,
+        "stop" : 1651990812206,
+        "duration" : 2765
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "测试用例描述：错误的密码登录失败",
+      "uid" : "317a6decef0fd733",
+      "parentUid" : "03f1661ca992eb99488d3d9f2a012d80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651990812208,
+        "stop" : 1651990813387,
+        "duration" : 1179
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "测试用例描述：错误的验证码登录失败",
+      "uid" : "7aa3b61d2b11d544",
+      "parentUid" : "03f1661ca992eb99488d3d9f2a012d80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651990813389,
+        "stop" : 1651990814355,
+        "duration" : 966
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "测试用例描述：正确的账号密码登录成功",
+      "uid" : "4f59ce5c909c2afe",
+      "parentUid" : "03f1661ca992eb99488d3d9f2a012d80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651990814357,
+        "stop" : 1651990817312,
+        "duration" : 2955
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "03f1661ca992eb99488d3d9f2a012d80"
+  }, {
+    "name" : "test_sql",
+    "children" : [ {
+      "name" : "测试用例描述：查询客户数据",
+      "uid" : "531a3d894122d71d",
+      "parentUid" : "a323830ee6241c5ed523b45ef2e19b09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651990819387,
+        "stop" : 1651990819407,
+        "duration" : 20
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a323830ee6241c5ed523b45ef2e19b09"
+  } ]
+}

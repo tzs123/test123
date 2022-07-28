@@ -1,0 +1,27 @@
+#正确账号密码登录
+Login:
+    url: 'http://testingedu.com.cn:8000/index.php/Home/User/login.html'         #要测的链接
+    username: '13800138006'
+    password: '123456'
+    Verification: '123'
+
+#错误账号登录
+Login1:
+    url: 'http://testingedu.com.cn:8000/index.php/Home/User/login.html'          #要测的链接
+    username: '13800138123'
+    password: '123456'
+    Verification: '123'
+
+#错误密码登录
+Login2:
+    url: 'http://testingedu.com.cn:8000/index.php/Home/User/login.html'          #要测的链接
+    username: '13800138006'
+    password: '123'
+    Verification: '123'
+
+#错误验证码登录
+Login3:
+    url: 'http://testingedu.com.cn:8000/index.php/Home/User/login.html'          #要测的链接
+    username: '13800138006'
+    password: '123456'
+    Verification: ''

@@ -1,0 +1,59 @@
+{
+  "total" : 5,
+  "items" : [ {
+    "uid" : "7db21133bf389fa43eef71e3fe0b0e68",
+    "name" : "test_login",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "a24954e6d02994bf22b64a3094b270dc",
+    "name" : "test_5",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "f4d2caaaae298714ed1bdbe7cb85433f",
+    "name" : "test_Demo",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "c851272e9fba9f9a1fb8ad177312e099",
+    "name" : "test_app",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "cc97296e14b4cc0a3bb5aadf025816ef",
+    "name" : "test_sql",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

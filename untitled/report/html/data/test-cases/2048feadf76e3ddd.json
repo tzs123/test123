@@ -1,0 +1,151 @@
+{
+  "uid" : "2048feadf76e3ddd",
+  "name" : "测试用例描述：播放音乐：我爱他",
+  "fullName" : "test_app.Test#test_08",
+  "historyId" : "cc3323004703edb0b0386bfad9e4f4cb",
+  "time" : {
+    "start" : 1651990777983,
+    "stop" : 1651990795480,
+    "duration" : 17497
+  },
+  "description" : "测试标题：播放音乐",
+  "descriptionHtml" : "<p>测试标题：播放音乐</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "测试标题：播放音乐",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "输入音乐名称",
+      "time" : {
+        "start" : 1651990780753,
+        "stop" : 1651990780754,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4e4b7f28386aebc2",
+        "name" : "音乐名称",
+        "source" : "4e4b7f28386aebc2.attach",
+        "type" : "text/plain",
+        "size" : 9
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "点击播放",
+      "time" : {
+        "start" : 1651990783464,
+        "stop" : 1651990783464,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "237dd51e13fb3b91",
+        "name" : "播放成功",
+        "source" : "237dd51e13fb3b91.attach",
+        "type" : "text/plain",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "断言",
+      "time" : {
+        "start" : 1651990785819,
+        "stop" : 1651990785819,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c6c7206a78841359",
+        "name" : "断言成功",
+        "source" : "c6c7206a78841359.attach",
+        "type" : "text/plain",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "2fcb91acf7207266",
+      "name" : "截图",
+      "source" : "2fcb91acf7207266.png",
+      "type" : "image/png",
+      "size" : 928849
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "用户故事描述：播放音乐"
+  }, {
+    "name" : "feature",
+    "value" : "QQ音乐"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "epic",
+    "value" : "*************测试描述*************"
+  }, {
+    "name" : "suite",
+    "value" : "test_app"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test"
+  }, {
+    "name" : "host",
+    "value" : "MS-SLSXLICKSUSF"
+  }, {
+    "name" : "thread",
+    "value" : "11376-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_app"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2048feadf76e3ddd.json",
+  "parameterValues" : [ ]
+}
