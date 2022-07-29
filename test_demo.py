@@ -9,7 +9,6 @@
 '''
 import json
 import os
-
 import allure
 import sys
 # from common.request import HTTPHandle
@@ -45,17 +44,48 @@ sys.dont_write_bytecode = True
         # with allure.step("断言"):
         #     assert res == excel[0]['except']
         #     allure.attach('OK',name='断言成功')
-
-@allure.story('用户故事描述：用例二')
-@allure.title('测试标题：用例二')
-@allure.description('测试用例描述：用例二')
-@allure.testcase('测试用例地址:http://www.sogou.com/')
-@allure.tag('测试用例标签：用例二')
-# @pytest.mark.skip(reason='本次不执行')
-# @allure.severity(allure.severity_level.MINOR)
-def test_01():
-    print('执行第二个用例')
-    with allure.step("断言"):
-        assert 1 == 1
+class TestPytestOne():
+    @allure.story('用户故事描述：用例二')
+    @allure.title('测试标题：用例二')
+    @allure.description('测试用例描述：用例二')
+    @allure.testcase('测试用例地址:http://www.sogou.com/')
+    @allure.tag('测试用例标签：用例二')
+    # @pytest.mark.skip(reason='本次不执行')
+    # @allure.severity(allure.severity_level.MINOR)
+    def test_01(self):
+        print('执行第二个用例')
+        with allure.step("断言"):
+            assert 1 == 1
         allure.attach('OK',name='断言成功')
 
+    @allure.story('用户故事描述：用例二')
+    @allure.title('测试标题：用例二')
+    @allure.description('测试用例描述：用例二')
+    @allure.testcase('测试用例地址:http://www.sogou.com/')
+    @allure.tag('测试用例标签：用例二')
+    def test_02(self):
+        print('---用例01---')
+        assert 1 == 1
+
+    @allure.story('用户故事描述：用例二')
+    @allure.title('测试标题：用例二')
+    @allure.description('测试用例描述：用例二')
+    @allure.testcase('测试用例地址:http://www.sogou.com/')
+    @allure.tag('测试用例标签：用例二')
+    def test_03(self):
+        print('---用例02---')
+        assert 1 == 1
+
+    @allure.story('用户故事描述：用例二')
+    @allure.title('测试标题：用例二')
+    @allure.description('测试用例描述：用例二')
+    @allure.testcase('测试用例地址:http://www.sogou.com/')
+    @allure.tag('测试用例标签：用例二')
+    def test_04(self):
+        print('---用例03---')
+        assert 1 == 1
+
+if __name__ == '__main__':
+    pytest.main(['--alluredir', '..report/tmp'])
+    os.system("allure generate ..report/tmp -o ../report/html --clean")
+    os.system('allure serve ../report/tmp')
