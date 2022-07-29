@@ -1,0 +1,81 @@
+[ {
+  "uid" : "a1fbfa7266d39c3f",
+  "name" : "测试用例描述：正确的账号密码登录成功",
+  "time" : {
+    "start" : 1651654643743,
+    "stop" : 1651654646061,
+    "duration" : 2318
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "bf83ddc1d4db03ce",
+  "name" : "测试用例描述：查询客户数据",
+  "time" : {
+    "start" : 1651654641271,
+    "stop" : 1651654641274,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "94258fb475829ce3",
+  "name" : "测试用例描述：播放音乐：我爱他",
+  "time" : {
+    "start" : 1651654680879,
+    "stop" : 1651654697196,
+    "duration" : 16317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c773b547698c698",
+  "name" : "测试用例描述：错误的验证码登录失败",
+  "time" : {
+    "start" : 1651654666572,
+    "stop" : 1651654669173,
+    "duration" : 2601
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "f1c80d8094b8ed8d",
+  "name" : "测试用例描述：错误的账号登录失败",
+  "time" : {
+    "start" : 1651654650598,
+    "stop" : 1651654653045,
+    "duration" : 2447
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c168ad3e8ac3ec11",
+  "name" : "测试用例描述：生肖配对",
+  "time" : {
+    "start" : 1651654640983,
+    "stop" : 1651654641269,
+    "duration" : 286
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c33191a0daeea51",
+  "name" : "测试用例描述：错误的密码登录失败",
+  "time" : {
+    "start" : 1651654658578,
+    "stop" : 1651654661007,
+    "duration" : 2429
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "52898b6eedab7a09",
+  "name" : "测试标题：用例二",
+  "time" : {
+    "start" : 1651654640981,
+    "stop" : 1651654640981,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "minor"
+} ]

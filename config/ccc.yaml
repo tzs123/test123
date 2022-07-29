@@ -1,0 +1,26 @@
+logger:
+    name: ITester
+    level: DEBUG
+    format: '%(filename)s-%(lineno)d-%(asctime)s-%(levelname)s-%(message)s'
+Login:
+    password: 123456
+    username: 13800138006
+    url: http://testingedu.com.cn:8000/index.php/Home/User/login.html          #要测的链接
+    headers: text/html; charset=utf-8
+    cookies: g6u9ve561mmsmfbhjs1jgg7kn7
+    params:
+    expected_result: 200
+email:
+    send_email: '18877570499@163.com'
+    pwd: 'NVQDMSWGOWCQKBTB'
+    receiver: '1298166079@qq.com'
+browser:
+    type: chrome    #ie    firefox              #浏览器模式
+    mode: normal    #normal   #正常 ，hidden  #隐藏
+mysql:
+    host: '192.168.8.100'
+    port: 3306
+    db: 'test'
+    user: 'root'
+    passwd: '123'
+    charset: 'utf8'

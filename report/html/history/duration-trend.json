@@ -1,0 +1,128 @@
+[ {
+  "data" : {
+    "duration" : 56215
+  }
+}, {
+  "buildOrder" : 80,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/80/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 35357
+  }
+}, {
+  "buildOrder" : 79,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/79/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 31476
+  }
+}, {
+  "buildOrder" : 78,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/78/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 31073
+  }
+}, {
+  "buildOrder" : 77,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/77/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 32777
+  }
+}, {
+  "buildOrder" : 76,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/76/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 30664
+  }
+}, {
+  "buildOrder" : 73,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/73/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 49728
+  }
+}, {
+  "buildOrder" : 72,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/72/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 49387
+  }
+}, {
+  "buildOrder" : 71,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/71/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 70,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/70/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 69,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/69/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 50290
+  }
+}, {
+  "buildOrder" : 68,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/68/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 233
+  }
+}, {
+  "buildOrder" : 67,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/67/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 305
+  }
+}, {
+  "buildOrder" : 66,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/66/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 274
+  }
+}, {
+  "buildOrder" : 65,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/65/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 263
+  }
+}, {
+  "buildOrder" : 64,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/64/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 325
+  }
+}, {
+  "buildOrder" : 63,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/63/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 62,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/62/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 61,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/61/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 60,
+  "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/60/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 348
+  }
+} ]

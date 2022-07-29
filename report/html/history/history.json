@@ -1,0 +1,1015 @@
+{
+  "24e424fe5694bafaaba56099b659de37" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "f1c80d8094b8ed8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651654650598,
+        "stop" : 1651654653045,
+        "duration" : 2447
+      }
+    }, {
+      "uid" : "3b8c2418f154c227",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/80/allure/#testresult/3b8c2418f154c227",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651646751828,
+        "stop" : 1651646754249,
+        "duration" : 2421
+      }
+    }, {
+      "uid" : "db5cd41799387d5e",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/79/allure/#testresult/db5cd41799387d5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651646037214,
+        "stop" : 1651646039658,
+        "duration" : 2444
+      }
+    }, {
+      "uid" : "6ed75875ec053e20",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/78/allure/#testresult/6ed75875ec053e20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651645491055,
+        "stop" : 1651645493463,
+        "duration" : 2408
+      }
+    }, {
+      "uid" : "d0096e6dc0668efd",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/77/allure/#testresult/d0096e6dc0668efd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651644970489,
+        "stop" : 1651644972918,
+        "duration" : 2429
+      }
+    }, {
+      "uid" : "c78e7e99b2434e7c",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/76/allure/#testresult/c78e7e99b2434e7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651644224369,
+        "stop" : 1651644226776,
+        "duration" : 2407
+      }
+    } ]
+  },
+  "8ec91ebb07cb2b45a38478eca1be69f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "6c33191a0daeea51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651654658578,
+        "stop" : 1651654661007,
+        "duration" : 2429
+      }
+    }, {
+      "uid" : "8f650b2a1dd41529",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/80/allure/#testresult/8f650b2a1dd41529",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651646763844,
+        "stop" : 1651646766243,
+        "duration" : 2399
+      }
+    }, {
+      "uid" : "49151c7b662c038f",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/79/allure/#testresult/49151c7b662c038f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651646044899,
+        "stop" : 1651646047363,
+        "duration" : 2464
+      }
+    }, {
+      "uid" : "ef9f6825d94cbdef",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/78/allure/#testresult/ef9f6825d94cbdef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651645499876,
+        "stop" : 1651645502280,
+        "duration" : 2404
+      }
+    }, {
+      "uid" : "cc757f6735d20d7f",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/77/allure/#testresult/cc757f6735d20d7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651644979579,
+        "stop" : 1651644981989,
+        "duration" : 2410
+      }
+    }, {
+      "uid" : "fc1687fae22107f",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/76/allure/#testresult/fc1687fae22107f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651644231897,
+        "stop" : 1651644234312,
+        "duration" : 2415
+      }
+    } ]
+  },
+  "e80dcb360667126e504de2bd04d2fb61" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "bf83ddc1d4db03ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651654641271,
+        "stop" : 1651654641274,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "58a3a38898e1d69c",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/80/allure/#testresult/58a3a38898e1d69c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651646740097,
+        "stop" : 1651646740100,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "99a68ead11ff8e77",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/79/allure/#testresult/99a68ead11ff8e77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651646025419,
+        "stop" : 1651646025419,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "da714ed5ba0752d6",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/78/allure/#testresult/da714ed5ba0752d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651645479956,
+        "stop" : 1651645479959,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "a7021be17508d96",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/77/allure/#testresult/a7021be17508d96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651644960149,
+        "stop" : 1651644960152,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "2f48532ed8d1ad61",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/76/allure/#testresult/2f48532ed8d1ad61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651644212377,
+        "stop" : 1651644212380,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "78a16b9ef4f72a9c",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/73/allure/#testresult/78a16b9ef4f72a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651632816992,
+        "stop" : 1651632816995,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "f4ae0c51fe16d0dc",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/72/allure/#testresult/f4ae0c51fe16d0dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651632336504,
+        "stop" : 1651632336508,
+        "duration" : 4
+      }
+    } ]
+  },
+  "4ab94d24b92e1521726b456a416f3c17" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "52898b6eedab7a09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651654640981,
+        "stop" : 1651654640981,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "361d47cb3d7ef78c",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/80/allure/#testresult/361d47cb3d7ef78c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651646740095,
+        "stop" : 1651646740095,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2c10991a7c635f68",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/79/allure/#testresult/2c10991a7c635f68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651646024982,
+        "stop" : 1651646024982,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1bc07dd5118f8552",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/78/allure/#testresult/1bc07dd5118f8552",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651645479658,
+        "stop" : 1651645479658,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4002fc23d7de98f9",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/77/allure/#testresult/4002fc23d7de98f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651644959841,
+        "stop" : 1651644959841,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2b44c418c74cbfbe",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/76/allure/#testresult/2b44c418c74cbfbe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651644212054,
+        "stop" : 1651644212054,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5c9ffc33d827b41e",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/73/allure/#testresult/5c9ffc33d827b41e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651632816663,
+        "stop" : 1651632816663,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9599e564a2d5bcdc",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/72/allure/#testresult/9599e564a2d5bcdc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651632336230,
+        "stop" : 1651632336230,
+        "duration" : 0
+      }
+    } ]
+  },
+  "99cc6b199ab7eac5979ecaecd144eda1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "c773b547698c698",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651654666572,
+        "stop" : 1651654669173,
+        "duration" : 2601
+      }
+    }, {
+      "uid" : "d34fa24bad8fcf8b",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/80/allure/#testresult/d34fa24bad8fcf8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651646772506,
+        "stop" : 1651646775132,
+        "duration" : 2626
+      }
+    }, {
+      "uid" : "633b5bd410386b35",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/79/allure/#testresult/633b5bd410386b35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651646053817,
+        "stop" : 1651646056458,
+        "duration" : 2641
+      }
+    }, {
+      "uid" : "3380acff1ef69039",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/78/allure/#testresult/3380acff1ef69039",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651645508107,
+        "stop" : 1651645510731,
+        "duration" : 2624
+      }
+    }, {
+      "uid" : "b3a345f5129ee1da",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/77/allure/#testresult/b3a345f5129ee1da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651644989633,
+        "stop" : 1651644992618,
+        "duration" : 2985
+      }
+    }, {
+      "uid" : "ec61720a745bda35",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/76/allure/#testresult/ec61720a745bda35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651644240159,
+        "stop" : 1651644242718,
+        "duration" : 2559
+      }
+    } ]
+  },
+  "2ec345fc74a0254e50d5bd61cf14a8b2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 19,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "9f1b8ccdd58d0c86",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/69/allure/#testresult/9f1b8ccdd58d0c86",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651593418568,
+        "stop" : 1651593418568,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1929b75eea69cc10",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/68/allure/#testresult/1929b75eea69cc10",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651593316325,
+        "stop" : 1651593316325,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "caa98bf9a85f2206",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/67/allure/#testresult/caa98bf9a85f2206",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651593278212,
+        "stop" : 1651593278212,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "54590ba003fc63ed",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/66/allure/#testresult/54590ba003fc63ed",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651591387367,
+        "stop" : 1651591387367,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fa3c1114a23ff918",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/65/allure/#testresult/fa3c1114a23ff918",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651591214549,
+        "stop" : 1651591214549,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b1c3a29d88884606",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/64/allure/#testresult/b1c3a29d88884606",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651591007736,
+        "stop" : 1651591007736,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "91f1b669df0ef259",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/60/allure/#testresult/91f1b669df0ef259",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651590204209,
+        "stop" : 1651590204209,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "55cfc101135b356f",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/59/allure/#testresult/55cfc101135b356f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651587417576,
+        "stop" : 1651587417576,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e474d601ec23c282",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/58/allure/#testresult/e474d601ec23c282",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651586937626,
+        "stop" : 1651586937626,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e0e1b49a3a6f2a34",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/57/allure/#testresult/e0e1b49a3a6f2a34",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651586457572,
+        "stop" : 1651586457572,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "918899062ced51fe",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/56/allure/#testresult/918899062ced51fe",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651586217549,
+        "stop" : 1651586217549,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9c80156bf6dc3c66",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/55/allure/#testresult/9c80156bf6dc3c66",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651586096149,
+        "stop" : 1651586096149,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3c69e196b1ee9c37",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/54/allure/#testresult/3c69e196b1ee9c37",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651585737635,
+        "stop" : 1651585737635,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9e526f604c53b7bf",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/53/allure/#testresult/9e526f604c53b7bf",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651585640187,
+        "stop" : 1651585640187,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1aee12ba71c4b9a9",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/52/allure/#testresult/1aee12ba71c4b9a9",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651584751230,
+        "stop" : 1651584751230,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d25b4c7b6696254e",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/51/allure/#testresult/d25b4c7b6696254e",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651583715857,
+        "stop" : 1651583715857,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bae18e3abfc39434",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/50/allure/#testresult/bae18e3abfc39434",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651583631594,
+        "stop" : 1651583631594,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e2d3a1bcd02a4239",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/49/allure/#testresult/e2d3a1bcd02a4239",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651583423018,
+        "stop" : 1651583423018,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "da0cf57719bc959f",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/48/allure/#testresult/da0cf57719bc959f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1651583122564,
+        "stop" : 1651583122564,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6369f1c4f2345cff",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/46/allure/#testresult/6369f1c4f2345cff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651565470339,
+        "stop" : 1651565470340,
+        "duration" : 1
+      }
+    } ]
+  },
+  "1d07bea7817db3e358aa949b2e124eb4" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 17,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "bde46f6a0118bb86",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/69/allure/#testresult/bde46f6a0118bb86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651593418272,
+        "stop" : 1651593418567,
+        "duration" : 295
+      }
+    }, {
+      "uid" : "ef4d178c95331e06",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/68/allure/#testresult/ef4d178c95331e06",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651593316098,
+        "stop" : 1651593316323,
+        "duration" : 225
+      }
+    }, {
+      "uid" : "fd5226ab665642da",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/67/allure/#testresult/fd5226ab665642da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651593277917,
+        "stop" : 1651593278210,
+        "duration" : 293
+      }
+    }, {
+      "uid" : "b54c06038a8da04e",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/66/allure/#testresult/b54c06038a8da04e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651591387099,
+        "stop" : 1651591387365,
+        "duration" : 266
+      }
+    }, {
+      "uid" : "ba03af10384fce00",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/65/allure/#testresult/ba03af10384fce00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651591214286,
+        "stop" : 1651591214548,
+        "duration" : 262
+      }
+    }, {
+      "uid" : "226677dd4cd17ff4",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/64/allure/#testresult/226677dd4cd17ff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651591007411,
+        "stop" : 1651591007733,
+        "duration" : 322
+      }
+    }, {
+      "uid" : "99c2c3f4f1cc61c7",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/60/allure/#testresult/99c2c3f4f1cc61c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651590203861,
+        "stop" : 1651590204208,
+        "duration" : 347
+      }
+    }, {
+      "uid" : "2eae343e50468c32",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/59/allure/#testresult/2eae343e50468c32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651587417267,
+        "stop" : 1651587417575,
+        "duration" : 308
+      }
+    }, {
+      "uid" : "dc9a87dc01f60637",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/58/allure/#testresult/dc9a87dc01f60637",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651586937264,
+        "stop" : 1651586937626,
+        "duration" : 362
+      }
+    }, {
+      "uid" : "c017ff22fc733f4",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/57/allure/#testresult/c017ff22fc733f4",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '超过每日可允许请求次数!' == 'success'\n  - success\n  + 超过每日可允许请求次数!",
+      "time" : {
+        "start" : 1651586457274,
+        "stop" : 1651586457551,
+        "duration" : 277
+      }
+    }, {
+      "uid" : "8deb682772aac83b",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/56/allure/#testresult/8deb682772aac83b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '超过每日可允许请求次数' == 'success'\n  - success\n  + 超过每日可允许请求次数",
+      "time" : {
+        "start" : 1651586217259,
+        "stop" : 1651586217523,
+        "duration" : 264
+      }
+    }, {
+      "uid" : "22b1a95dd39c47f",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/55/allure/#testresult/22b1a95dd39c47f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651586095863,
+        "stop" : 1651586096148,
+        "duration" : 285
+      }
+    }, {
+      "uid" : "8aab67e6bdce4592",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/54/allure/#testresult/8aab67e6bdce4592",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651585737317,
+        "stop" : 1651585737634,
+        "duration" : 317
+      }
+    }, {
+      "uid" : "3d8215421c6c4754",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/53/allure/#testresult/3d8215421c6c4754",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651585639867,
+        "stop" : 1651585640185,
+        "duration" : 318
+      }
+    }, {
+      "uid" : "2fac428891cfa965",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/52/allure/#testresult/2fac428891cfa965",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651584750895,
+        "stop" : 1651584751229,
+        "duration" : 334
+      }
+    }, {
+      "uid" : "df5a76ac91cf3eb0",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/51/allure/#testresult/df5a76ac91cf3eb0",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'reason' is not defined",
+      "time" : {
+        "start" : 1651583715556,
+        "stop" : 1651583715835,
+        "duration" : 279
+      }
+    }, {
+      "uid" : "e9ae3d7cd56c92d7",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/50/allure/#testresult/e9ae3d7cd56c92d7",
+      "status" : "broken",
+      "statusDetails" : "TypeError: the JSON object must be str, bytes or bytearray, not 'dict'",
+      "time" : {
+        "start" : 1651583631299,
+        "stop" : 1651583631575,
+        "duration" : 276
+      }
+    }, {
+      "uid" : "9c277c335ed76a2e",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/49/allure/#testresult/9c277c335ed76a2e",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'str' object has no attribute 'reason'",
+      "time" : {
+        "start" : 1651583422698,
+        "stop" : 1651583422996,
+        "duration" : 298
+      }
+    }, {
+      "uid" : "7ef61c2e26032d74",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/48/allure/#testresult/7ef61c2e26032d74",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'url' is not defined",
+      "time" : {
+        "start" : 1651583121961,
+        "stop" : 1651583122554,
+        "duration" : 593
+      }
+    }, {
+      "uid" : "ebe27c10c534cbcb",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/46/allure/#testresult/ebe27c10c534cbcb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651565470110,
+        "stop" : 1651565470333,
+        "duration" : 223
+      }
+    } ]
+  },
+  "b1091266adcd0eb965e10ef8a0e947c1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "94258fb475829ce3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651654680879,
+        "stop" : 1651654697196,
+        "duration" : 16317
+      }
+    } ]
+  },
+  "1d0f814a5dbdc88f931a81cc5d8070d4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "8bc3fb251f3cd087",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/69/allure/#testresult/8bc3fb251f3cd087",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651593418570,
+        "stop" : 1651593418573,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "31da5aee4cfffc36",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/68/allure/#testresult/31da5aee4cfffc36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651593316327,
+        "stop" : 1651593316331,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "85a477ef902dfa33",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/67/allure/#testresult/85a477ef902dfa33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651593278217,
+        "stop" : 1651593278222,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "6934a31450a04ccb",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/66/allure/#testresult/6934a31450a04ccb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651591387370,
+        "stop" : 1651591387373,
+        "duration" : 3
+      }
+    } ]
+  },
+  "7cb40e60663d35c361e634e1274697fd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fbb27603d450f4d3",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/69/allure/#testresult/fbb27603d450f4d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651593421067,
+        "stop" : 1651593468562,
+        "duration" : 47495
+      }
+    } ]
+  },
+  "52358111c47fe75d6adc02cd3fa1f212" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "a1fbfa7266d39c3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651654643743,
+        "stop" : 1651654646061,
+        "duration" : 2318
+      }
+    }, {
+      "uid" : "d3e8cbd3ad552905",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/80/allure/#testresult/d3e8cbd3ad552905",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651646743209,
+        "stop" : 1651646746280,
+        "duration" : 3071
+      }
+    }, {
+      "uid" : "3d2a986058469b08",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/79/allure/#testresult/3d2a986058469b08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651646029026,
+        "stop" : 1651646031376,
+        "duration" : 2350
+      }
+    }, {
+      "uid" : "d69c4fde0ec15252",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/78/allure/#testresult/d69c4fde0ec15252",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651645482671,
+        "stop" : 1651645485173,
+        "duration" : 2502
+      }
+    }, {
+      "uid" : "3a395e1abbb40898",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/77/allure/#testresult/3a395e1abbb40898",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651644963095,
+        "stop" : 1651644965452,
+        "duration" : 2357
+      }
+    }, {
+      "uid" : "75454ed6f2c90ab8",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/76/allure/#testresult/75454ed6f2c90ab8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651644215832,
+        "stop" : 1651644218706,
+        "duration" : 2874
+      }
+    }, {
+      "uid" : "5d5ed4ad8629e5a0",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/73/allure/#testresult/5d5ed4ad8629e5a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651632819362,
+        "stop" : 1651632866391,
+        "duration" : 47029
+      }
+    }, {
+      "uid" : "3be8204c224896b3",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/72/allure/#testresult/3be8204c224896b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651632338916,
+        "stop" : 1651632385617,
+        "duration" : 46701
+      }
+    } ]
+  },
+  "6bbc0713232fa953ae940fd62b24895e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "c168ad3e8ac3ec11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651654640983,
+        "stop" : 1651654641269,
+        "duration" : 286
+      }
+    }, {
+      "uid" : "d367910f4244a6e6",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/80/allure/#testresult/d367910f4244a6e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651646739775,
+        "stop" : 1651646740093,
+        "duration" : 318
+      }
+    }, {
+      "uid" : "c95029157d0f0192",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/79/allure/#testresult/c95029157d0f0192",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651646024992,
+        "stop" : 1651646025419,
+        "duration" : 427
+      }
+    }, {
+      "uid" : "396764e406236fda",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/78/allure/#testresult/396764e406236fda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651645479661,
+        "stop" : 1651645479955,
+        "duration" : 294
+      }
+    }, {
+      "uid" : "b1006ffbb4046ba5",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/77/allure/#testresult/b1006ffbb4046ba5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651644959843,
+        "stop" : 1651644960147,
+        "duration" : 304
+      }
+    }, {
+      "uid" : "a1effea96619529c",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/76/allure/#testresult/a1effea96619529c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651644212056,
+        "stop" : 1651644212375,
+        "duration" : 319
+      }
+    }, {
+      "uid" : "854b3210828e6ce6",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/73/allure/#testresult/854b3210828e6ce6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651632816664,
+        "stop" : 1651632816990,
+        "duration" : 326
+      }
+    }, {
+      "uid" : "c469b557ed4e4c83",
+      "reportUrl" : "http://192.168.0.219:8080/job/psimsendemail/72/allure/#testresult/c469b557ed4e4c83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651632336232,
+        "stop" : 1651632336503,
+        "duration" : 271
+      }
+    } ]
+  }
+}
