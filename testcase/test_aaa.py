@@ -1,8 +1,13 @@
 # !/usr/bin/env python
 # _*_ coding:utf-8 _*_
+import json
 import os
-import pytest
 import allure
+import sys
+# from common.request import HTTPHandle
+import pytest
+
+sys.dont_write_bytecode = True
 @allure.story('用户故事描述：用例二')
 @allure.title('测试标题：用例二')
 @allure.description('测试用例描述：用例二')
