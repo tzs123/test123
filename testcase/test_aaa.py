@@ -22,6 +22,6 @@ class Test():
         print()
     
 if __name__ == '__main__':
-    pytest.main(['--alluredir', '..report/tmp'])
+    pytest.main(['--clean-alluredir', '..report/tmp'])
     os.system("allure generate ..report/tmp -o ../report/html --clean")
     os.system('allure serve ../report/tmp')
