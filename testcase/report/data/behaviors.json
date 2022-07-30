@@ -1,0 +1,77 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "用户故事描述：用例二",
+    "children" : [ {
+      "name" : "测试标题：用例二",
+      "uid" : "a41ba55e87e1439c",
+      "parentUid" : "657eb62771b1b26851bc02627e11b08b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659100800755,
+        "stop" : 1659100800755,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "测试标题：用例二",
+      "uid" : "42681f318588e4cb",
+      "parentUid" : "657eb62771b1b26851bc02627e11b08b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659100800755,
+        "stop" : 1659100800755,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "测试标题：用例二",
+      "uid" : "57f47639a54370dc",
+      "parentUid" : "657eb62771b1b26851bc02627e11b08b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659100800755,
+        "stop" : 1659100800755,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "测试标题：用例二",
+      "uid" : "5d58f65b333c4c04",
+      "parentUid" : "657eb62771b1b26851bc02627e11b08b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659100800755,
+        "stop" : 1659100800755,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "657eb62771b1b26851bc02627e11b08b"
+  } ]
+}

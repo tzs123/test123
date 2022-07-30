@@ -1,0 +1,153 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MS-SLSXLICKSUSF",
+    "children" : [ {
+      "name" : "996-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用例二",
+        "uid" : "57f47639a54370dc",
+        "parentUid" : "d8e9b80c374b87aae20e66313ae9c089",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659100800755,
+          "stop" : 1659100800755,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "a41ba55e87e1439c",
+        "parentUid" : "d8e9b80c374b87aae20e66313ae9c089",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659100800755,
+          "stop" : 1659100800755,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "5d58f65b333c4c04",
+        "parentUid" : "d8e9b80c374b87aae20e66313ae9c089",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659100800755,
+          "stop" : 1659100800755,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "42681f318588e4cb",
+        "parentUid" : "d8e9b80c374b87aae20e66313ae9c089",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659100800755,
+          "stop" : 1659100800755,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d8e9b80c374b87aae20e66313ae9c089"
+    }, {
+      "name" : "6276-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用例二",
+        "uid" : "ac6e29db49bcfc16",
+        "parentUid" : "fff55e52274f1319a71669c1a78ff559",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659100735651,
+          "stop" : 1659100735651,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "dbc11852fb6ece3",
+        "parentUid" : "fff55e52274f1319a71669c1a78ff559",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659100735664,
+          "stop" : 1659100735664,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "9aacc0ebd6da956e",
+        "parentUid" : "fff55e52274f1319a71669c1a78ff559",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659100735651,
+          "stop" : 1659100735651,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "5034a1a02877a7e2",
+        "parentUid" : "fff55e52274f1319a71669c1a78ff559",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659100735651,
+          "stop" : 1659100735651,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fff55e52274f1319a71669c1a78ff559"
+    } ],
+    "uid" : "f7fc636c7606383f9b0f3398a1ff788c"
+  } ]
+}
