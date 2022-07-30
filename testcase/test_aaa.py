@@ -11,3 +11,8 @@ def test2():
         for j in range(1, i + 1):
             print('{}x{}={}\t'.format(j, i, i * j), end='')
     print()
+    
+if __name__ == '__main__':
+    pytest.main(['--alluredir', '..report/tmp'])
+    os.system("allure generate ..report/tmp -o ../report/html --clean")
+    os.system('allure serve ../report/tmp')
