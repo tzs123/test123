@@ -88,4 +88,4 @@ class TestPytestOne():
 if __name__ == '__main__':
     pytest.main(['--alluredir', '..report/tmp'])
     os.system("allure generate ..report/tmp -o ../report/html --clean")
-#     os.system('allure serve ../report/tmp')
+    os.system('allure serve ../report/tmp')
