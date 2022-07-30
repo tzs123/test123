@@ -95,6 +95,6 @@ class TestPytestOne():
         assert 1 == 1
 
 if __name__ == '__main__':
-    pytest.main(['--alluredir=./report/result_data --clean-alluredir'])
+    pytest.main(['pytest --alluredir=./report/result_data --clean-alluredir'])
     os.system("allure generate report/tmp -o report/allure-report -c report/allure-report")
     os.system('allure serve ./report/result_data')
