@@ -13,11 +13,12 @@ sys.dont_write_bytecode = True
 @allure.description('测试用例描述：用例二')
 @allure.testcase('测试用例地址:http://www.sogou.com/')
 @allure.tag('测试用例标签：用例二')
-def test2():
-    for i in range(1, 10):
-        for j in range(1, i + 1):
-            print('{}x{}={}\t'.format(j, i, i * j), end='')
-    print()
+class Test():
+    def test1(self):
+        for i in range(1, 10):
+            for j in range(1, i + 1):
+                print('{}x{}={}\t'.format(j, i, i * j), end='')
+        print()
     
 if __name__ == '__main__':
     pytest.main(['--alluredir', '..report/tmp'])
