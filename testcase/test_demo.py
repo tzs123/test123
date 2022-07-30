@@ -84,17 +84,11 @@ class TestPytestOne():
     def test_04(self):
         print('---用例03---')
         assert 1 == 1
-     
-    @allure.story('用户故事描述：用例二')
-    @allure.title('测试标题：用例二')
-    @allure.description('测试用例描述：用例二')
-    @allure.testcase('测试用例地址:http://www.sogou.com/')
-    @allure.tag('测试用例标签：用例二')
-    def test_05(self):
-        print('---用例04---')
-        assert 1 == 1
+
+
 
 if __name__ == '__main__':
     pytest.main(['pytest --alluredir=./report/result_data --clean-alluredir'])
     os.system("allure generate report/tmp -o report/allure-report -c report/allure-report")
     os.system('allure serve ./report/result_data')
+

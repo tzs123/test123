@@ -1,0 +1,41 @@
+[ {
+  "uid" : "7264b025b8802a15",
+  "name" : "测试标题：用例二",
+  "time" : {
+    "start" : 1659162197051,
+    "stop" : 1659162197051,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85e6bd7ca5053b0",
+  "name" : "测试标题：用例二",
+  "time" : {
+    "start" : 1659162197051,
+    "stop" : 1659162197051,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c89522b133fd558",
+  "name" : "测试标题：用例二",
+  "time" : {
+    "start" : 1659162197051,
+    "stop" : 1659162197051,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6fe7bbd8ce9ae61a",
+  "name" : "测试标题：用例二",
+  "time" : {
+    "start" : 1659162197051,
+    "stop" : 1659162197051,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

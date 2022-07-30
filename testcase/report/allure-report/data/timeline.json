@@ -1,0 +1,81 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MS-SLSXLICKSUSF",
+    "children" : [ {
+      "name" : "6784-MainThread",
+      "children" : [ {
+        "name" : "测试标题：用例二",
+        "uid" : "7264b025b8802a15",
+        "parentUid" : "73708de94fa7afd790742a91da782a7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659162197051,
+          "stop" : 1659162197051,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "2c89522b133fd558",
+        "parentUid" : "73708de94fa7afd790742a91da782a7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659162197051,
+          "stop" : 1659162197051,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "85e6bd7ca5053b0",
+        "parentUid" : "73708de94fa7afd790742a91da782a7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659162197051,
+          "stop" : 1659162197051,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试标题：用例二",
+        "uid" : "6fe7bbd8ce9ae61a",
+        "parentUid" : "73708de94fa7afd790742a91da782a7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659162197051,
+          "stop" : 1659162197051,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "73708de94fa7afd790742a91da782a7e"
+    } ],
+    "uid" : "f7fc636c7606383f9b0f3398a1ff788c"
+  } ]
+}
