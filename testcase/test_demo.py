@@ -85,7 +85,7 @@ class TestPytestOne():
         print('---用例03---')
         assert 1 == 1
 
-if __name__ == '__main__':
-    pytest.main(['--alluredir', '..report/tmp'])
-    os.system("allure generate ..report/tmp -o ../report/html --clean")
-    os.system('allure serve ../report/tmp')
+# if __name__ == '__main__':
+#     pytest.main(['--alluredir', '..report/tmp'])
+#     os.system("allure generate ..report/tmp -o ../report/html --clean")
+#     os.system('allure serve ../report/tmp')
