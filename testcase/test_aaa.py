@@ -1,5 +1,6 @@
 # !/usr/bin/env python
 # _*_ coding:utf-8 _*_
+import pytest
 import allure
 @allure.story('用户故事描述：用例二')
 @allure.title('测试标题：用例二')
