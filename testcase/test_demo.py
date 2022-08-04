@@ -79,7 +79,7 @@ class TestPytestOne():
 
 
 if __name__ == '__main__':
-    pytest.main(['pytest test_demo.py --alluredir=report'])
-    os.system("allure generate report -o report -c report")
-    os.system('allure serve report')
+    pytest.main(['pytest test_demo.py --alluredir=./report/tmp'])
+    os.system("allure generate ./report/tmp -o report/html -c report/html")
+    os.system('allure serve ./report/tmp')
 
