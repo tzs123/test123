@@ -2,7 +2,7 @@
 import jsonpath
 import pymysql
 
-from common.yanl_handler import yaml_data
+from common.YamlHandler import yaml_data
 
 
 class CommDB(object):

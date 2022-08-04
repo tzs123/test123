@@ -1,7 +1,7 @@
 # _*_ coding:utf-8 _*_
 import json
 import logging
-from common.yanl_handler import yaml_data
+from common.YamlHandler import yaml_data
 
 class LoggerHandler(logging.Logger):
     #继承Logger类

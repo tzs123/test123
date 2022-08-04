@@ -1,4 +1,4 @@
-# coding:utf-8
+# _*_ coding:utf-8 _*_
 
 """
 1、打开表单

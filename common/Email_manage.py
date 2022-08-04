@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 
 import pytest
 
-from common.yanl_handler import yaml_data
+from common.YamlHandler import yaml_data
 
 
 class EmailManage:

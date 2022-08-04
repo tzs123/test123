@@ -7,7 +7,7 @@
       "name" : "TestPytestOne",
       "children" : [ {
         "name" : "测试标题：用例二",
-        "uid" : "7264b025b8802a15",
+        "uid" : "660383ea7278aa2b",
         "parentUid" : "19ddd4b31a158c7b9a066eb46c81889c",
         "status" : "passed",
         "time" : {
@@ -24,7 +24,7 @@
         "parameters" : [ ]
       }, {
         "name" : "测试标题：用例二",
-        "uid" : "85e6bd7ca5053b0",
+        "uid" : "7aaf4667a931900e",
         "parentUid" : "19ddd4b31a158c7b9a066eb46c81889c",
         "status" : "passed",
         "time" : {
@@ -41,7 +41,7 @@
         "parameters" : [ ]
       }, {
         "name" : "测试标题：用例二",
-        "uid" : "2c89522b133fd558",
+        "uid" : "a94bec9561bfffc",
         "parentUid" : "19ddd4b31a158c7b9a066eb46c81889c",
         "status" : "passed",
         "time" : {
@@ -58,7 +58,7 @@
         "parameters" : [ ]
       }, {
         "name" : "测试标题：用例二",
-        "uid" : "6fe7bbd8ce9ae61a",
+        "uid" : "2ccf3f7151bbd529",
         "parentUid" : "19ddd4b31a158c7b9a066eb46c81889c",
         "status" : "passed",
         "time" : {

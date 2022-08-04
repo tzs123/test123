@@ -1,23 +1,11 @@
-# coding:utf-8
+# _*_ coding:utf-8 _*_
 import json
-import os
-import time
-import unittest
 
-import allure
-
-import jsonpath
 import pytest
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-import unittest
-from HTMLTestRunner import HTMLTestRunner
 
-from common.Email_manage import EmailManage
 from common.excel_util import ExcelHandler, excel
 from common.loger_handler import logger
-from common.request import HTTPHandle
-from common.sql_util import sql
+from base.request_util import HTTPHandle
 
 from pageobject.login_page import LoginPage
 

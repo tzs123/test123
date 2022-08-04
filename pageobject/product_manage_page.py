@@ -4,7 +4,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-from base.base_page import BasePage
+from base.base_util import BasePage
 
 
 class ProductManagePage(BasePage):

@@ -1,0 +1,74 @@
+#app自动化用例
+
+loginPage:
+  - title: 登录手Q
+    case:
+      - name: 打开appium
+        method: startappium
+
+      - name: 打开app
+        method: startapp
+        conf: '{
+            "platformName":"Android",
+            "platformVersion":"6.0.1",
+            "deviceName":"127.0.0.1:7555",
+            "appPackage":"com.tencent.mobileqq",
+            "appActivity":".activity.SplashActivity",
+            "noReset":true,
+            "unicodeKeyboard":ture,
+            "resetKeyboard":ture,
+            "automationName":"uiautomator1"
+        }'
+
+      - name: 等待
+        method: sleep
+        locator: 8
+
+      - name: 输入QQ号码
+        method: input
+        locator: 请输入QQ号码或手机或邮箱
+        value: 1298166079
+
+      - name: 输入密码
+        method: input
+        locator: 密码 安全
+        value: Tzs6570293@
+
+      - name: 点击登录
+        method: click
+        locator: 登录
+
+logoutPage:
+  - title: 退出登录
+    cases:
+      - name: 等待
+        method: sleep
+        time: 3
+
+      - name: 点击账户设置
+        method: click
+        url: 账户及设置
+
+      - name: 等待
+        method: sleep
+        time: 2
+
+      - name: 点击设置
+        method: click
+        locator: 设置
+
+      - name: 点击切换账号
+        method: click
+        locator: com.tencent.mobileqq:id/account_switch
+
+      - name: 退出当前账号按钮
+        method: click
+        locator: 退出当前账号按钮
+
+      - name: 确定退出
+        method: click
+        locator: com.tencent.mobileqq:id/dialogRightBtn
+
+      - name: 确定退出
+        method: clickerr
+        locator: com.tencent.mobileqq:id/egz

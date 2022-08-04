@@ -1,0 +1,62 @@
+#合约监控
+request:
+    method: get
+    url: http://pledge-risk-gateway.k8s-dev.kingdomai.com/credit-risk/customer/contract-monitor-list/fin?page=1&page_size=10          #要测的链接
+    headers:
+        Accept: application/json
+        Connection: keep-alive
+        Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyaWQiOjEzNywiaWF0IjoxNjM5MTg3MjI1LCJleHAiOjE2Mzk3OTIwMjV9.HUl7xjyYWpC_Hu9veE8fH-vNqBNgH1VGkGoljB7wAP4
+    params:
+    actual:
+        - $.status_code
+        - $.message
+    expected:
+        - 0
+        - 请求处理成功
+
+#单一证券
+name:
+    method: get
+    url: http://pledge-risk-gateway.k8s-dev.kingdomai.com/credit-risk/single-securities-pctoftotal/list          #要测的链接
+    headers:
+        Accept: application/json
+        Connection: keep-alive
+        Authorization: $token
+    params:
+    actual:
+        - $status_code
+        - $message
+    expected:
+        - 0
+        - 请求处理成功
+
+#客户画像
+name2:
+    method: get
+    url: http://pledge-risk-gateway.k8s-dev.kingdomai.com/credit-risk/customer/monitor-list?page=1&page_size=10          #要测的链接
+    headers:
+        Accept: application/json
+        Connection: keep-alive
+        Authorization: $token
+    params:
+    actual:
+        - $status_code
+        - $message
+    expected:
+        - 0
+        - 请求处理成功
+#净空头客户
+name3:
+    method: get
+    url: http://pledge-risk-gateway.k8s-dev.kingdomai.com/credit-risk/customer/net-short/cust?page=1&page_size=10&order_by=sum_value+descend        #要测的链接
+    headers:
+        Accept: application/json
+        Connection: keep-alive
+        Authorization: $token
+    params:
+    actual:
+        - $status_code
+        - $message
+    expected:
+        - 0
+        - 请求处理成功

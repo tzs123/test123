@@ -1,7 +1,7 @@
 # !/usr/bin/env python
 # _*_ coding:utf-8 _*_
 '''
-# File       : test_two.py
+# File       : test1111.py
 # Time       ：2021/11/22 20:36
 # Author     ：tzs
 # version    ：python 3.6
@@ -9,90 +9,49 @@
 '''
 import json
 import os
+
+import pytest
 import allure
 import sys
-# from common.request import HTTPHandle
-import pytest
+
+from base.request_util import HTTPHandle
 
 sys.dont_write_bytecode = True
 
 
-# @allure.epic('测试描述'.center(30, '*'))
-# @allure.feature('生肖')       #模块
-# class TestPytestOne():
-#     @allure.story('用户故事描述：生肖配对')      #模块的功能
-#     @allure.description('测试标题：生肖配对')
-#     @allure.title('测试用例描述：生肖配对')
-#     @allure.severity(allure.severity_level.NORMAL)
-#     def test_02(self,action):
-#         url = 'http://apis.juhe.cn/sxpd/query'
-#         req = HTTPHandle().visit(method='get',
-#                                  url=url,
-#                                  headers=None,
-#                                  params={
-#                                      'men': '狗',
-#                                      'women':'鼠',
-#                                      'key':'165a0b380d7ffcc86a8e1e545b4e79e0'
-#                                  })
-#         res = json.dumps(req, ensure_ascii=False)
-#         print(res)
-        # print(req['result'])
-        # with allure.step("请求"):
-        #     allure.attach('{}'.format(url),name='get请求')
-        # with allure.step("响应"):
-        #     allure.attach('{}'.format(res),name='返回结果')
-        # with allure.step("断言"):
-        #     assert res == excel[0]['except']
-        #     allure.attach('OK',name='断言成功')
+@allure.epic('测试描述'.center(30, '*'))
+@allure.feature('测试模块')
+@allure.suite('测试套件')
 class TestPytestOne():
+    @allure.story('用户故事描述：用例一')
+    @allure.title('测试标题：用例一')
+    @allure.description('测试用例描述：用例一')
+    @allure.testcase('测试用例地址:http://www.baidu.com/')
+    @allure.tag('测试用例标签：用例一')
+    def test_one(self):
+        req = HTTPHandle().visit(method='get',
+                                 url='http://web.juhe.cn/constellation/getAll',
+                                 headers=None,
+                                 params={
+                                     'consName': '天蝎座',
+                                     'type': 'year',
+                                     'key': '8ffc14ff3cc065d7e76d122975f9517b'
+                                 })
+        res = json.dumps(req, ensure_ascii=False)
+        print(res)
+
     @allure.story('用户故事描述：用例二')
     @allure.title('测试标题：用例二')
     @allure.description('测试用例描述：用例二')
     @allure.testcase('测试用例地址:http://www.sogou.com/')
     @allure.tag('测试用例标签：用例二')
-    # @pytest.mark.skip(reason='本次不执行')
-    # @allure.severity(allure.severity_level.MINOR)
-    def test_01(self):
+    def test_two(self):
         print('执行第二个用例')
-        with allure.step("断言"):
-            assert 1 == 1
-        allure.attach('OK',name='断言成功')
-
-    @allure.story('用户故事描述：用例二')
-    @allure.title('测试标题：用例二')
-    @allure.description('测试用例描述：用例二')
-    @allure.testcase('测试用例地址:http://www.sogou.com/')
-    @allure.tag('测试用例标签：用例二')
-    def test_02(self):
-        print('---用例01---')
-        assert 1 == 1
-
-    @allure.story('用户故事描述：用例二')
-    @allure.title('测试标题：用例二')
-    @allure.description('测试用例描述：用例二')
-    @allure.testcase('测试用例地址:http://www.sogou.com/')
-    @allure.tag('测试用例标签：用例二')
-    def test_03(self):
-        print('---用例02---')
-        assert 1 == 1
-
-    @allure.story('用户故事描述：用例二')
-    @allure.title('测试标题：用例二')
-    @allure.description('测试用例描述：用例二')
-    @allure.testcase('测试用例地址:http://www.sogou.com/')
-    @allure.tag('测试用例标签：用例二')
-    def test_04(self):
-        print('---用例032---')
-        assert 1 == 1
-        
-    @allure.story('用户故事描述：用例二')
-    @allure.title('测试标题：用例二')
-    @allure.description('测试用例描述：用例二')
-    @allure.testcase('测试用例地址:http://www.sogou.com/')
-    @allure.tag('测试用例标签：用例二')
-    def test_05(self):
-        print('---用例042---')
-        assert 1 == 1
+        assert True == True
 
 
+# pytest运行
+if __name__ == "__main__":
+    pytest.main(['test_demo.py', '-s','-q', '--alluredir', '../report/tmp'])
+    os.system('allure generate ../report/tmp -o ../report/html --clean')
 

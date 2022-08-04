@@ -11,7 +11,7 @@ import pytest
 import yaml
 from jinja2 import Template
 
-from common.yanl_handler import yaml_data
+from common.YamlHandler import yaml_data
 
 from string import Template
 
@@ -19,7 +19,7 @@ import yaml
 
 
 def yaml_template(data: dict):
-    with open("../config/bbb.yaml", encoding="utf-8") as f:
+    with open("../data/bbb.yaml", encoding="utf-8") as f:
        #  f.read()读取的是yaml文件的文本格式数据（即读取出来的数据为字符串格式）
        #  这里代码的作用是将data数据替换f.read()读出来的$标识的数据---简单来说就是读取yaml文件中的数据，然后替换原数据中被$符号标识的变量，得到新的数据（此时没有生成新的对象，只是改变了数据的内容）
         re = Template(f.read()).substitute(data)
